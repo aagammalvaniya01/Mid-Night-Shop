@@ -1,0 +1,39 @@
+.cart-item-row {
+  justify-content: space-between;
+}
+
+.cart-item-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.product-name {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.product-price {
+  display: flex;
+  align-items: center;
+}
+
+.product-price span {
+  margin-left: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.rpoduct-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.remove-cart-item {
+  display: flex;
+  align-items: center;
+}
+
+.sub-total {
+  font-size: 20px;
+  font-weight: bold;
+}

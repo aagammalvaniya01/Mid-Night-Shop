@@ -1,0 +1,10 @@
+.category-flex {
+    display: flex;
+    width: 100%;
+}
+
+.free-delivery-text {
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+.price-contain {
+    margin: 0px !important;
+    padding: 0px 0px 10px 0px !important;
+}
+
+.delivery-badge {
+    pointer-events: none;
+    color: rgb(102, 102, 102);
+    background: rgb(249, 249, 249);
+    padding: 4px 8px;
+    border-radius: 48px;
+    display: inline-flex;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
